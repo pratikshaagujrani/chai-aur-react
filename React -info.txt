@@ -1,0 +1,21 @@
+React 
+- Build UI
+- Makes Easy to manage and build complex frontend
+
+
+Topics:
+Core of React(state or UI manipulation, JSX)
+Component Reusability
+Props and hooks
+
+SPA - Single Page Application
+
+Additional Addon:
+- Router is a packaqge need to install 
+- State management
+	- Redux, context API
+- Class based component
+	- Legacy code
+- BAAS Apps(Backend as a service)
+	- Social Media clone, e-commerce app
+
